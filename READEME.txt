@@ -1,0 +1,1 @@
+本程序可以连接mysql数据库，并且执行mysql的sql语句.运行前需要先启动mysql
